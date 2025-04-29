@@ -1,0 +1,9 @@
+.puzzle _ _ love {
+position: adsolute;
+width: 95vw;
+height: 95vh;
+top: 50%;
+left: 50%;
+background-color: #ffffdd;
+overflow: hidden;
+}
